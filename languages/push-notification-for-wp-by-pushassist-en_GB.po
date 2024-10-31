@@ -1,0 +1,874 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Push Notification for WordPress by PushAssist\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-14 13:24+0530\n"
+"PO-Revision-Date: Fri Jul 15 2016 16:27:17 GMT+0530 (India Standard Time)\n"
+"Last-Translator: PushAssist <support@pushassist.com>\n"
+"Language-Team: \n"
+"Language: English (UK)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Target-Locale: en_GB"
+
+#: admin/partials/pushassist-create-account.php:22
+#: admin/partials/pushassist-create-account.php:107
+#: admin/class-pushassist-admin.php:170
+msgid "Create Account"
+msgstr "Create Account"
+
+#: admin/partials/pushassist-create-account.php:29
+#: admin/partials/pushassist-send-notifications.php:29
+#: admin/partials/pushassist-segments.php:28
+#: admin/partials/pushassist-setting.php:28
+msgid "Dismiss this notice."
+msgstr "Dismiss this notice."
+
+#: admin/partials/pushassist-create-account.php:38
+msgid "Create an Account"
+msgstr "Create an Account"
+
+#: admin/partials/pushassist-create-account.php:50
+msgid "Full Name"
+msgstr "Full Name"
+
+#: admin/partials/pushassist-create-account.php:60
+msgid "Company Name"
+msgstr "Company Name"
+
+#: admin/partials/pushassist-create-account.php:67
+msgid "Contact no with country code"
+msgstr "Contact no with country code"
+
+#: admin/partials/pushassist-create-account.php:73
+msgid "Email"
+msgstr "Email"
+
+#: admin/partials/pushassist-create-account.php:80
+msgid "Password"
+msgstr "Password"
+
+#: admin/partials/pushassist-create-account.php:93
+#: admin/partials/pushassist-subscribers.php:37
+msgid "Site Url"
+msgstr "Site Url"
+
+#: admin/partials/pushassist-create-account.php:99
+msgid "accountname"
+msgstr "accountname"
+
+#: admin/partials/pushassist-create-account.php:103
+#: admin/partials/pushassist-send-notifications.php:171
+msgid ".pushassist.com"
+msgstr ".pushassist.com"
+
+#: admin/partials/pushassist-create-account.php:118
+msgid "Provide API Key And Secret Key."
+msgstr "Provide API Key And Secret Key."
+
+#: admin/partials/pushassist-create-account.php:130
+msgid "API Key"
+msgstr "API Key"
+
+#: admin/partials/pushassist-create-account.php:140
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: admin/partials/pushassist-create-account.php:144
+msgid "Submit"
+msgstr "Submit"
+
+#: admin/partials/pushassist-create-account.php:155
+msgid "How to get API Keys"
+msgstr "How to get API Keys"
+
+#: admin/partials/pushassist-create-account.php:160
+msgid ""
+"If you are an existing user of PushAssist you can find your api keys under "
+"your PushAssist control panel. To get your API and Secret Keys login to your"
+msgstr ""
+"If you are an existing user of PushAssist you can find your api keys under "
+"your PushAssist control panel. To get your API and Secret Keys login to your"
+
+#: admin/partials/pushassist-create-account.php:162
+msgid "PushAssist Admin Control Panel"
+msgstr "PushAssist Admin Control Panel"
+
+#: admin/partials/pushassist-create-account.php:162
+msgid "and click"
+msgstr "and click"
+
+#: admin/partials/pushassist-create-account.php:162
+msgid "Sites"
+msgstr "Sites"
+
+#: admin/partials/pushassist-create-account.php:162
+msgid ""
+". Copy the API Key and Secret Keys from your control Panel and paste above. "
+"Your account login details were sent to you at the time of signup. In case "
+"you have missed your account credentials please send us an email at"
+msgstr ""
+". Copy the API Key and Secret Keys from your control Panel and paste above. "
+"Your account login details were sent to you at the time of signup. In case "
+"you have missed your account credentials please send us an email at"
+
+#: admin/partials/pushassist-create-account.php:165
+msgid "containing your site url and we will send you your account credentials."
+msgstr "containing your site url and we will send you your account credentials."
+
+#: admin/partials/pushassist-create-account.php:168
+msgid "Please do not share your API and Secret keys with anyone."
+msgstr "Please do not share your API and Secret keys with anyone."
+
+#: admin/partials/pushassist-dashboard.php:21
+#: admin/class-pushassist-admin.php:159
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: admin/partials/pushassist-dashboard.php:22
+msgid "subscribers left"
+msgstr "subscribers left"
+
+#: admin/partials/pushassist-dashboard.php:23
+#: admin/partials/pushassist-campaign.php:36
+msgid "Upgrade to Premium"
+msgstr "Upgrade to Premium"
+
+#: admin/partials/pushassist-dashboard.php:41
+msgid "Total Delivered"
+msgstr "Total Delivered"
+
+#: admin/class-pushassist-admin.php:131
+msgid "<strong>%s </strong> Total Delivered"
+msgstr "<strong>%s </strong> Total Delivered"
+
+#: admin/partials/pushassist-dashboard.php:53
+#: admin/partials/pushassist-dashboard.php:67
+#: admin/partials/pushassist-dashboard.php:81
+msgid "from last week"
+msgstr "from last week"
+
+#: admin/partials/pushassist-dashboard.php:57
+msgid "Total Clicks"
+msgstr "Total Clicks"
+
+#: admin/class-pushassist-admin.php:136
+msgid "<strong>%s </strong> Total Clicks"
+msgstr "<strong>%s </strong> Total Clicks"
+
+#: admin/partials/pushassist-dashboard.php:71
+msgid "Total Subscribers"
+msgstr "Total Subscribers"
+
+#: admin/class-pushassist-admin.php:125
+msgid "<strong>%s </strong> Total Subscribers"
+msgstr "<strong>%s </strong> Total Subscribers"
+
+#: admin/partials/pushassist-dashboard.php:85
+msgid "Campaigns"
+msgstr "Campaigns"
+
+#: admin/class-pushassist-admin.php:146
+msgid "<strong>%s </strong> Campaigns"
+msgstr "<strong>%s </strong> Campaigns"
+
+#: admin/partials/pushassist-dashboard.php:87
+msgid "active this week"
+msgstr "active this week"
+
+#: admin/partials/pushassist-dashboard.php:91
+msgid "Segments"
+msgstr "Segments"
+
+#: admin/class-pushassist-admin.php:131
+msgid "<strong>%s </strong> Segments"
+msgstr "<strong>%s </strong> Segments"
+
+#: admin/partials/pushassist-dashboard.php:93
+msgid "created"
+msgstr "created"
+
+#: admin/partials/pushassist-dashboard.php:99
+msgid "registered"
+msgstr "registered"
+
+#: admin/partials/pushassist-dashboard.php:114
+#: admin/partials/pushassist-sent-notification-details.php:39
+msgid "Site"
+msgstr "Site"
+
+#: admin/partials/pushassist-dashboard.php:115
+#: admin/partials/pushassist-sent-notification-details.php:40
+msgid "Message"
+msgstr "Message"
+
+#: admin/partials/pushassist-dashboard.php:116
+#: admin/partials/pushassist-sent-notification-details.php:41
+msgid "Total Sent"
+msgstr "Total Sent"
+
+#: admin/partials/pushassist-dashboard.php:117
+#: admin/partials/pushassist-sent-notification-details.php:42
+msgid "Delivered"
+msgstr "Delivered"
+
+#: admin/partials/pushassist-dashboard.php:118
+#: admin/partials/pushassist-sent-notification-details.php:43
+msgid "Failed"
+msgstr "Failed"
+
+#: admin/partials/pushassist-dashboard.php:119
+#: admin/partials/pushassist-sent-notification-details.php:44
+msgid "Clicked"
+msgstr "Clicked"
+
+#: admin/partials/pushassist-dashboard.php:120
+#: admin/partials/pushassist-sent-notification-details.php:45
+#: admin/partials/pushassist-segment-details.php:42
+msgid "Created Date"
+msgstr "Created Date"
+
+#: admin/partials/pushassist-dashboard.php:121
+msgid "Is Campaign"
+msgstr "Is Campaign"
+
+#: admin/partials/pushassist-dashboard.php:165
+msgid "Yes"
+msgstr "Yes"
+
+#: admin/partials/pushassist-dashboard.php:167
+msgid "No"
+msgstr "No"
+
+#: admin/partials/pushassist-dashboard.php:182
+#: admin/partials/pushassist-sent-notification-details.php:107
+#: admin/partials/pushassist-segment-details.php:72
+#: admin/partials/pushassist-subscribers.php:71
+msgid "No record found."
+msgstr "No record found."
+
+#: admin/partials/pushassist-sent-notification-details.php:21
+msgid "Sent Notifications"
+msgstr "Sent Notifications"
+
+#: admin/partials/pushassist-sent-notification-details.php:23
+msgid "Send New Notification"
+msgstr "Send New Notification"
+
+#: admin/partials/pushassist-send-notifications.php:22
+msgid "New Notification"
+msgstr "New Notification"
+
+#: admin/partials/pushassist-send-notifications.php:45
+#: admin/partials/pushassist-send-notifications.php:48
+#: admin/partials/pushassist-send-notifications.php:159
+#: admin/partials/pushassist-send-notifications.php:232
+#: admin/partials/pushassist-send-notifications.php:331
+#: admin/partials/pushassist-setting.php:246
+#: admin/partials/pushassist-setting.php:250
+msgid "Notification Title"
+msgstr "Notification Title"
+
+#: admin/partials/pushassist-send-notifications.php:49
+#: admin/partials/pushassist-campaign.php:72
+msgid "Limit 77 Characters"
+msgstr "Limit 77 Characters"
+
+#: admin/partials/pushassist-send-notifications.php:58
+#: admin/partials/pushassist-campaign.php:84
+#: admin/class-pushassist-admin.php:1292
+msgid "Limit 138 Characters"
+msgstr "Limit 138 Characters"
+
+#: admin/partials/pushassist-send-notifications.php:93
+#: admin/partials/pushassist-setting.php:223
+#: admin/partials/pushassist-setting.php:332
+#: admin/partials/pushassist-campaign.php:112
+msgid "Limit 45 Characters"
+msgstr "Limit 45 Characters"
+
+#: admin/partials/pushassist-send-notifications.php:53
+#: admin/partials/pushassist-send-notifications.php:56
+#: admin/partials/pushassist-setting.php:257
+#: admin/partials/pushassist-setting.php:261
+#: admin/class-pushassist-admin.php:1089
+msgid "Notification Message"
+msgstr "Notification Message"
+
+#: admin/partials/pushassist-send-notifications.php:101
+#: admin/partials/pushassist-setting.php:236
+#: admin/partials/pushassist-setting.php:344
+#: admin/class-pushassist-admin.php:1094
+#: admin/partials/pushassist-campaign.php:120
+msgid "Limit 73 Characters"
+msgstr "Limit 73 Characters"
+
+#: admin/partials/pushassist-send-notifications.php:62
+msgid "Notification URL"
+msgstr "Notification URL"
+
+#: admin/partials/pushassist-send-notifications.php:65
+#: admin/partials/pushassist-campaign.php:74
+msgid "Enter a URL to push your subscribers to (yoursite.com)"
+msgstr "Enter a URL to push your subscribers to (yoursite.com)"
+
+#: admin/partials/pushassist-send-notifications.php:71
+#: admin/partials/pushassist-send-notifications.php:74
+msgid "Notification Logo"
+msgstr "Notification Logo"
+
+#: admin/partials/pushassist-send-notifications.php:77
+#: admin/partials/pushassist-setting.php:206
+#: admin/partials/pushassist-campaign.php:96
+msgid "Image size must be exactly 256x256px."
+msgstr "Image size must be exactly 256x256px."
+
+#: admin/partials/pushassist-send-notifications.php:84
+#: admin/partials/pushassist-campaign.php:103
+msgid "Add UTM Parameters"
+msgstr "Add UTM Parameters"
+
+#: admin/partials/pushassist-send-notifications.php:88
+#: admin/partials/pushassist-setting.php:324
+#: admin/partials/pushassist-campaign.php:107
+msgid "UTM Source"
+msgstr "UTM Source"
+
+#: admin/partials/pushassist-send-notifications.php:91
+#: admin/partials/pushassist-setting.php:329
+#: admin/partials/pushassist-campaign.php:110
+msgid "Enter UTM Source"
+msgstr "Enter UTM Source"
+
+#: admin/partials/pushassist-send-notifications.php:96
+#: admin/partials/pushassist-setting.php:336
+#: admin/partials/pushassist-campaign.php:115
+msgid "UTM Medium"
+msgstr "UTM Medium"
+
+#: admin/partials/pushassist-send-notifications.php:99
+#: admin/partials/pushassist-setting.php:341
+#: admin/partials/pushassist-campaign.php:118
+msgid "Enter UTM Medium"
+msgstr "Enter UTM Medium"
+
+#: admin/partials/pushassist-send-notifications.php:104
+#: admin/partials/pushassist-setting.php:348
+#: admin/partials/pushassist-setting.php:353
+#: admin/partials/pushassist-campaign.php:123
+msgid "UTM Campaign"
+msgstr "UTM Campaign"
+
+#: admin/partials/pushassist-send-notifications.php:107
+#: admin/partials/pushassist-setting.php:351
+#: admin/partials/pushassist-setting.php:356
+#: admin/partials/pushassist-campaign.php:126
+msgid "Enter UTM Campaign"
+msgstr "Enter UTM Campaign"
+
+#: admin/partials/pushassist-send-notifications.php:109
+#: admin/partials/pushassist-setting.php:356
+#: admin/partials/pushassist-campaign.php:128
+msgid "Limit 500 Characters"
+msgstr "Limit 500 Characters"
+
+#: admin/partials/pushassist-send-notifications.php:116
+msgid "Segment"
+msgstr "Segment"
+
+#: admin/partials/pushassist-send-notifications.php:136
+msgid "Send"
+msgstr "Send"
+
+#: admin/partials/pushassist-send-notifications.php:146
+msgid "Preview"
+msgstr "Preview"
+
+#: admin/partials/pushassist-send-notifications.php:166
+#: admin/partials/pushassist-send-notifications.php:246
+#: admin/partials/pushassist-send-notifications.php:345
+msgid "Notification Body"
+msgstr "Notification Body"
+
+#: admin/partials/pushassist-send-notifications.php:178
+#: admin/partials/pushassist-send-notifications.php:201
+#: admin/partials/pushassist-send-notifications.php:215
+#: admin/partials/pushassist-send-notifications.php:366
+#: admin/partials/pushassist-send-notifications.php:387
+msgid "URL to open when user clicks the notification:"
+msgstr "URL to open when user clicks the notification:"
+
+#: admin/partials/pushassist-segment-details.php:21
+msgid "Segment Details"
+msgstr "Segment Details"
+
+#: admin/partials/pushassist-segment-details.php:23
+msgid "Add New"
+msgstr "Add New"
+
+#: admin/partials/pushassist-segment-details.php:40
+#: admin/partials/pushassist-segments.php:41
+#: admin/partials/pushassist-segments.php:46
+msgid "Segment Name"
+msgstr "Segment Name"
+
+#: admin/partials/pushassist-segment-details.php:41
+msgid "Subscribers Count"
+msgstr "Subscribers Count"
+
+#: admin/partials/pushassist-segments.php:21
+#: admin/partials/pushassist-segments.php:53
+msgid "Create Segment"
+msgstr "Create Segment"
+
+#: admin/partials/pushassist-segments.php:47
+msgid "Limit 40 Characters. E.g. Google"
+msgstr "Limit 40 Characters. E.g. Google"
+
+#: admin/partials/pushassist-segments.php:64
+msgid "How to Implement Segments for your Push Notification Subscribers"
+msgstr "How to Implement Segments for your Push Notification Subscribers"
+
+#: admin/partials/pushassist-segments.php:67
+msgid "Step 1 "
+msgstr "Step 1 "
+
+#: admin/partials/pushassist-segments.php:67
+msgid "Create a new segment. Go to Create Segments"
+msgstr "Create a new segment. Go to Create Segments"
+
+#: admin/partials/pushassist-segments.php:69
+msgid "Step 2"
+msgstr "Step 2"
+
+#: admin/partials/pushassist-segments.php:69
+msgid "Copy the following JavaScript code and paste it on your site page(s)."
+msgstr "Copy the following JavaScript code and paste it on your site page(s)."
+
+#: admin/partials/pushassist-segments.php:71
+msgid "Subscribe for Single Segment"
+msgstr "Subscribe for Single Segment"
+
+#: admin/partials/pushassist-segments.php:81
+msgid "Subscribe for Multiple Segments"
+msgstr "Subscribe for Multiple Segments"
+
+#: admin/partials/pushassist-subscribers.php:21
+msgid "Subscribers Details"
+msgstr "Subscribers Details"
+
+#: admin/partials/pushassist-subscribers.php:38
+msgid "Chrome"
+msgstr "Chrome"
+
+#: admin/partials/pushassist-subscribers.php:39
+msgid "Firefox"
+msgstr "Firefox"
+
+#: admin/partials/pushassist-subscribers.php:40
+msgid "Safari"
+msgstr "Safari"
+
+#: admin/partials/pushassist-setting.php:21
+msgid "Settings / Account Information"
+msgstr "Settings / Account Information"
+
+#: admin/partials/pushassist-setting.php:46
+msgid "Ask for permission after"
+msgstr "Ask for permission after"
+
+#: admin/partials/pushassist-setting.php:49
+msgid "Interval"
+msgstr "Interval"
+
+#: admin/partials/pushassist-setting.php:53
+msgid "seconds on your website."
+msgstr "seconds on your website."
+
+#: admin/partials/pushassist-setting.php:58
+#: admin/partials/pushassist-setting.php:62
+msgid "Opt-In Box Title"
+msgstr "Opt-In Box Title"
+
+#: admin/partials/pushassist-setting.php:65
+msgid "Limit 80 Characters"
+msgstr "Limit 80 Characters"
+
+#: admin/partials/pushassist-setting.php:71
+msgid "Opt-In Box Subtitle"
+msgstr "Opt-In Box Subtitle"
+
+#: admin/partials/pushassist-setting.php:78
+msgid "Limit 105 Characters"
+msgstr "Limit 105 Characters"
+
+#: admin/partials/pushassist-setting.php:84
+#: admin/partials/pushassist-setting.php:88
+msgid "Allow Button Text"
+msgstr "Allow Button Text"
+
+#: admin/partials/pushassist-setting.php:95
+#: admin/partials/pushassist-setting.php:99
+msgid "Don't Allow Button"
+msgstr "Don't Allow Button"
+
+#: admin/partials/pushassist-setting.php:105
+msgid "Notification Template"
+msgstr "Notification Template"
+
+#: admin/partials/pushassist-setting.php:128
+msgid "Location"
+msgstr "Location"
+
+#: admin/partials/pushassist-setting.php:199
+#: admin/partials/pushassist-setting.php:202
+msgid "Site Logo"
+msgstr "Site Logo"
+
+#: admin/partials/pushassist-setting.php:212
+msgid "Notification Subscription Setting"
+msgstr "Notification Subscription Setting"
+
+#: admin/partials/pushassist-setting.php:216
+#: admin/partials/pushassist-setting.php:220
+msgid "Opt-In Title"
+msgstr "Opt-In Title"
+
+#: admin/partials/pushassist-setting.php:229
+#: admin/partials/pushassist-setting.php:233
+msgid "Opt-In Message"
+msgstr "Opt-In Message"
+
+#: admin/partials/pushassist-setting.php:242
+msgid "Welcome Message for first time subscribers"
+msgstr "Welcome Message for first time subscribers"
+
+#: admin/partials/pushassist-setting.php:268
+#: admin/partials/pushassist-setting.php:272
+msgid "Redirect URL"
+msgstr "Redirect URL"
+
+#: admin/partials/pushassist-setting.php:297
+msgid "Auto Send Push Notifications"
+msgstr "Auto Send Push Notifications"
+
+#: admin/partials/pushassist-setting.php:303
+msgid "When a post is Published"
+msgstr "When a post is Published"
+
+#: admin/partials/pushassist-setting.php:308
+msgid "When a post is Updated"
+msgstr "When a post is Updated"
+
+#: admin/partials/pushassist-setting.php:313
+msgid "Auto Push UTM Parameters"
+msgstr "Auto Push UTM Parameters"
+
+#: admin/partials/pushassist-setting.php:280
+#: admin/partials/pushassist-setting.php:363
+#: admin/partials/pushassist-setting.php:420
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: admin/partials/pushassist-setting.php:378
+msgid ""
+"What is a GCM Key? How do I get export my subscribers, What if I want to "
+"switch to other vendor."
+msgstr ""
+"What is a GCM Key? How do I get export my subscribers, What if I want to "
+"switch to other vendor."
+
+#: admin/partials/pushassist-setting.php:380
+msgid ""
+"At the time of installation, you have to provide your GCM (Google Cloud "
+"Messaging) API Key for Chrome and Certificate Details for Safari that is "
+"used."
+msgstr ""
+"At the time of installation, you have to provide your GCM (Google Cloud "
+"Messaging) API Key for Chrome and Certificate Details for Safari that is "
+"used."
+
+#: admin/partials/pushassist-setting.php:382
+msgid ""
+"We need this information to export your subscriber’s ID’s. Please note that "
+"only premium accounts can export the subscribers."
+msgstr ""
+"We need this information to export your subscriber’s ID’s. Please note that "
+"only premium accounts can export the subscribers."
+
+#: admin/partials/pushassist-setting.php:384
+msgid "Please read"
+msgstr "Please read"
+
+#: admin/partials/pushassist-setting.php:388
+msgid "GCM registration"
+msgstr "GCM registration"
+
+#: admin/partials/pushassist-setting.php:388
+msgid "guidelines here."
+msgstr "guidelines here."
+
+#: admin/partials/pushassist-setting.php:397
+#: admin/partials/pushassist-setting.php:401
+msgid "GCM Project No."
+msgstr "GCM Project No."
+
+#: admin/partials/pushassist-setting.php:408
+#: admin/partials/pushassist-setting.php:412
+msgid "GCM API Key"
+msgstr "GCM API Key"
+
+#: admin/partials/pushassist-setting.php:429
+msgid ""
+"Screenshot of advance configurations that are possible with your PushAssist "
+"account."
+msgstr ""
+"Screenshot of advance configurations that are possible with your PushAssist "
+"account."
+
+#: admin/partials/pushassist-setting.php:433
+msgid "Customize Now"
+msgstr "Customize Now"
+
+#: admin/partials/pushassist-setting.php:438
+msgid "Notification Opt-in Box Setting"
+msgstr "Notification Opt-in Box Setting"
+
+#: admin/partials/pushassist-campaign.php:32
+msgid "Following screenshot shows how you can create and schedule a campaign."
+msgstr "Following screenshot shows how you can create and schedule a campaign."
+
+#: admin/partials/pushassist-campaign.php:32
+msgid "This feature is available in premium plans."
+msgstr "This feature is available in premium plans."
+
+#: admin/partials/pushassist-campaign.php:40
+msgid "Campaign Notification"
+msgstr "Campaign Notification"
+
+#: admin/class-pushassist-admin.php:160
+msgid "Notifications"
+msgstr "Notifications"
+
+#: admin/class-pushassist-admin.php:161
+msgid "Send Notification"
+msgstr "Send Notification"
+
+#: admin/class-pushassist-admin.php:163
+msgid "Create Segments"
+msgstr "Create Segments"
+
+#: admin/class-pushassist-admin.php:164
+msgid "Subscribers"
+msgstr "Subscribers"
+
+#: admin/class-pushassist-admin.php:165
+msgid "PushAssist Settings"
+msgstr "PushAssist Settings"
+
+#: admin/class-pushassist-admin.php:166
+msgid "PushAssist Campaigns"
+msgstr "PushAssist Campaigns"
+
+#: admin/class-pushassist-admin.php:165
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/class-pushassist-admin.php:394
+msgid "Setting successfully save."
+msgstr "Setting successfully save."
+
+#: admin/class-pushassist-admin.php:603
+#: admin/class-pushassist-admin.php:727
+msgid "PushAssist is installed"
+msgstr "PushAssist is installed"
+
+#: admin/class-pushassist-admin.php:603
+#: admin/class-pushassist-admin.php:727
+msgid ", no additional step is needed. Completely"
+msgstr ", no additional step is needed. Completely"
+
+#: admin/class-pushassist-admin.php:603
+#: admin/class-pushassist-admin.php:727
+msgid "Purge Site Cache"
+msgstr "Purge Site Cache"
+
+#: admin/class-pushassist-admin.php:603
+#: admin/class-pushassist-admin.php:727
+msgid "once to see it in action."
+msgstr "once to see it in action."
+
+#: admin/class-pushassist-admin.php:603
+#: admin/class-pushassist-admin.php:727
+msgid ""
+"Your Account Details have already been emailed to you. Also check under SPAM "
+"if you don't find it."
+msgstr ""
+"Your Account Details have already been emailed to you. Also check under SPAM "
+"if you don't find it."
+
+#: admin/class-pushassist-admin.php:985
+msgid "Send Push Notification on Update"
+msgstr "Send Push Notification on Update"
+
+#: admin/class-pushassist-admin.php:993
+msgid "Send Push Notification"
+msgstr "Send Push Notification"
+
+#: admin/class-pushassist-admin.php:1482
+msgid "Do Not Send Push Notification"
+msgstr "Do Not Send Push Notification"
+
+#: admin/class-pushassist-admin.php:1022
+msgid "Select PushAssist Segments"
+msgstr "Select PushAssist Segments"
+
+#: admin/class-pushassist-admin.php:1026
+msgid "All"
+msgstr "All"
+
+#: admin/class-pushassist-admin.php:1095
+msgid ""
+"When using a custom headline, this text will be used in place of the default "
+"blog post message for your push notification."
+msgstr ""
+"When using a custom headline, this text will be used in place of the default "
+"blog post message for your push notification."
+
+#: admin/partials/pushassist-setting.php:215
+#: admin/partials/pushassist-setting.php:219
+msgid "Opt-In Text"
+msgstr "Opt-In Text"
+
+#: admin/partials/pushassist-setting.php:222
+msgid "Limit 100 Characters"
+msgstr "Limit 100 Characters"
+
+#: admin/partials/pushassist-campaign.php:21
+msgid "Date Based Campaign"
+msgstr "Date Based Campaign"
+
+#: admin/partials/pushassist-campaign.php:54
+#: admin/partials/pushassist-campaign.php:57
+#: admin/partials/pushassist-campaign.php:183
+#: admin/partials/pushassist-campaign.php:259
+#: admin/partials/pushassist-campaign.php:358
+msgid "Campaign Title"
+msgstr "Campaign Title"
+
+#: admin/partials/pushassist-campaign.php:62
+#: admin/partials/pushassist-campaign.php:65
+msgid "Campaign Message"
+msgstr "Campaign Message"
+
+#: admin/partials/pushassist-campaign.php:71
+msgid "Campaign URL"
+msgstr "Campaign URL"
+
+#: admin/partials/pushassist-campaign.php:80
+#: admin/partials/pushassist-campaign.php:83
+msgid "Campaign Date"
+msgstr "Campaign Date"
+
+#: admin/partials/pushassist-campaign.php:84
+msgid "Date Format (YYYY-MM-DD HH:MM)"
+msgstr "Date Format (YYYY-MM-DD HH:MM)"
+
+#: admin/partials/pushassist-campaign.php:90
+msgid "Campaign Logo"
+msgstr "Campaign Logo"
+
+#: admin/partials/pushassist-campaign.php:198
+msgid "TimeZone"
+msgstr "TimeZone"
+
+#: admin/partials/pushassist-campaign.php:155
+msgid "Create Campaign"
+msgstr "Create Campaign"
+
+#: admin/partials/pushassist-campaign.php:190
+#: admin/partials/pushassist-campaign.php:273
+#: admin/partials/pushassist-campaign.php:372
+msgid "Campaign Body"
+msgstr "Campaign Body"
+
+#: admin/partials/pushassist-campaign.php:279
+#: admin/partials/pushassist-campaign.php:305
+#: admin/partials/pushassist-campaign.php:319
+#: admin/partials/pushassist-campaign.php:470
+#: admin/partials/pushassist-campaign.php:491
+msgid "URL to open when user clicks the campaign:"
+msgstr "URL to open when user clicks the campaign:"
+
+#: admin/class-pushassist-admin.php:368
+#: admin/class-pushassist-admin.php:1421
+msgid "We have just published an article, check it out!"
+msgstr "We have just published an article, check it out!"
+
+#: admin/pushassist-setting.php:336
+#: admin/pushassist-setting.php:337
+msgid "Notification Message When a Post is Published"
+msgstr "Notification Message When a Post is Published"
+
+#: admin/pushassist-setting.php:330
+msgid "Use Logo Image as Post Image"
+msgstr "Use Logo Image as Post Image"
+
+#: admin/pushassist-setting.php:335
+msgid "Use Large Image"
+msgstr "Use Large Image"
+
+#: admin/pushassist-setting.php:335
+msgid "Stop Automatic Script Inclusion. In That Case You Have to Manually Install our Script."
+msgstr "Stop Automatic Script Inclusion. In That Case You Have to Manually Install our Script."
+
+#: admin/pushassist-setting.php:401
+msgid "Other Settings"
+msgstr "Other Settings"
+
+#: admin/pushassist-setting.php:408
+msgid "Autocheck Notification for New Posts"
+msgstr "Autocheck Notification for New Posts"
+
+#: admin/pushassist-setting.php:414
+msgid "Autocheck Notification for Post Updates"
+msgstr "Autocheck Notification for Post Updates"
+
+#: admin/class-pushassist-admin.php:111
+msgid "PushAssist Stats"
+msgstr "PushAssist Stats"
+
+#: admin/partials/pushassist-dashboard:71
+#: admin/class-pushassist-admin:43
+msgid "Active Subscribers"
+msgstr "Active Subscribers"
+
+#: admin/partials/pushassist-dashboard:85
+#: admin/partials/pushassist-dashboard:126
+#: admin/partials/pushassist-send-notifications-details:43
+#: admin/class-pushassist-admin:139
+msgid "Unsubscribed"
+msgstr "Unsubscribed"
+
+#: admin/class-pushassist-admin:43
+msgid "<strong>%s </strong> Active Subscribers"
+msgstr "<strong>%s </strong> Active Subscribers"
+
+#: admin/class-pushassist-admin:139
+msgid "<strong>%s </strong> Unsubscribed"
+msgstr "<strong>%s </strong> Unsubscribed"
+
+#: admin/partials/pushassist-subscribers:41
+msgid "Total"
+msgstr "Total"

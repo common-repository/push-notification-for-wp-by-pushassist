@@ -1,0 +1,871 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Push Notification for WordPress by PushAssist\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-14 13:24+0530\n"
+"PO-Revision-Date: Sat Jul 16 2016 18:19:04 GMT+0530 (India Standard Time)\n"
+"Last-Translator: PushAssist <support@pushassist.com>\n"
+"Language-Team: Hindi\n"
+"Language: hi-IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_IN\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../plugins/push-notification-for-wp-by-pushassist\n"
+"X-Loco-Target-Locale: hi_IN\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: admin/partials/pushassist-create-account.php:22 
+#: admin/partials/pushassist-create-account.php:107 
+#: admin/class-pushassist-admin.php:170
+msgid "Create Account"
+msgstr "खाता बनाएं"
+
+#: admin/partials/pushassist-create-account.php:29 
+#: admin/partials/pushassist-send-notifications.php:29 
+#: admin/partials/pushassist-segments.php:28 
+#: admin/partials/pushassist-setting.php:28
+msgid "Dismiss this notice."
+msgstr "इस नोटिस को खारिज करें"
+
+#: admin/partials/pushassist-create-account.php:38
+msgid "Create an Account"
+msgstr "खाता बनाएं"
+
+#: admin/partials/pushassist-create-account.php:50
+msgid "Full Name"
+msgstr "पूरा नाम"
+
+#: admin/partials/pushassist-create-account.php:60
+msgid "Company Name"
+msgstr "कंपनी का नाम"
+
+#: admin/partials/pushassist-create-account.php:67
+msgid "Contact no with country code"
+msgstr "देश कोड के साथ कोई संपर्क"
+
+#: admin/partials/pushassist-create-account.php:73
+msgid "Email"
+msgstr "ईमेल"
+
+#: admin/partials/pushassist-create-account.php:80
+msgid "Password"
+msgstr "पासवर्ड"
+
+#: admin/partials/pushassist-create-account.php:93 
+#: admin/partials/pushassist-subscribers.php:37
+msgid "Site Url"
+msgstr "साइट यूआरएल"
+
+#: admin/partials/pushassist-create-account.php:99
+msgid "accountname"
+msgstr "खाते का नाम"
+
+#: admin/partials/pushassist-create-account.php:103 
+#: admin/partials/pushassist-send-notifications.php:171
+msgid ".pushassist.com"
+msgstr ".pushassist.com"
+
+#: admin/partials/pushassist-create-account.php:118
+msgid "Provide API Key And Secret Key."
+msgstr "एपीआई कुंजी और गुप्त कुंजी प्रदान करें।"
+
+#: admin/partials/pushassist-create-account.php:130
+msgid "API Key"
+msgstr "एपीआई कुंजी"
+
+#: admin/partials/pushassist-create-account.php:140
+msgid "Secret Key"
+msgstr "गुप्त कुंजी"
+
+#: admin/partials/pushassist-create-account.php:144
+msgid "Submit"
+msgstr "जमा करें"
+
+#: admin/partials/pushassist-create-account.php:155
+msgid "How to get API Keys"
+msgstr "अपनी एपीआई एवं गुप्त कुंजी कैसे प्राप्त करे"
+
+#: admin/partials/pushassist-create-account.php:160
+msgid ""
+"If you are an existing user of PushAssist you can find your api keys under "
+"your PushAssist control panel. To get your API and Secret Keys login to your"
+msgstr ""
+"अपनी एपीआई एवं गुप्त कुंजी प्राप्त करने के लिए PushAssist नियंत्रण कक्ष  लॉग "
+"इन करे"
+
+#: admin/partials/pushassist-create-account.php:162
+msgid "PushAssist Admin Control Panel"
+msgstr "PushAssist व्यवस्थापक नियंत्रण कक्ष"
+
+#: admin/partials/pushassist-create-account.php:162
+msgid "and click"
+msgstr "और क्लिक करें"
+
+#: admin/partials/pushassist-create-account.php:162
+msgid "Sites"
+msgstr "साइटें"
+
+#: admin/partials/pushassist-create-account.php:162
+msgid ""
+". Copy the API Key and Secret Keys from your control Panel and paste above. "
+"Your account login details were sent to you at the time of signup. In case "
+"you have missed your account credentials please send us an email at"
+msgstr ""
+"अपने नियंत्रण कक्ष से एपीआई एवं गुप्त कुंजी को कॉपी और पेस्ट करे, आपके खाते "
+"की जानकारी पंजीकरण के समय आपको भेज दी गयी है| अगर आपको कोई सहायता चाहिए तो "
+"आप हमे  ईमेल भेज कर  संपर्क कर सकते है"
+
+#: admin/partials/pushassist-create-account.php:165
+msgid "containing your site url and we will send you your account credentials."
+msgstr "अपनी साइट यूआरएल युक्त है और हम आप अपने खाते साख भेज देंगे।"
+
+#: admin/partials/pushassist-create-account.php:168
+msgid "Please do not share your API and Secret keys with anyone."
+msgstr "कृपया अपने एपीआई एवं गुप्त कुंजी किसी को मत दें"
+
+#: admin/partials/pushassist-dashboard.php:21 
+#: admin/class-pushassist-admin.php:159
+msgid "Dashboard"
+msgstr "नियंत्रण-पट्ट"
+
+#: admin/partials/pushassist-dashboard.php:22
+msgid "subscribers left"
+msgstr "ग्राहक शेष"
+
+#: admin/partials/pushassist-dashboard.php:23 
+#: admin/partials/pushassist-campaign.php:36
+msgid "Upgrade to Premium"
+msgstr "प्रीमियम में अपग्रेड करें"
+
+#: admin/partials/pushassist-dashboard.php:41
+msgid "Total Delivered"
+msgstr "कुल वितरित"
+
+#: admin/class-pushassist-admin.php:131
+msgid "<strong>%s </strong> Total Delivered"
+msgstr "<strong>%s </strong> कुल वितरित"
+
+#: admin/partials/pushassist-dashboard.php:53 
+#: admin/partials/pushassist-dashboard.php:67 
+#: admin/partials/pushassist-dashboard.php:81
+msgid "from last week"
+msgstr "पिछले हफ्ते से"
+
+#: admin/partials/pushassist-dashboard.php:57
+msgid "Total Clicks"
+msgstr "कुल क्लिक"
+
+#: admin/class-pushassist-admin.php:136
+msgid "<strong>%s </strong> Total Clicks"
+msgstr "<strong>%s </strong> कुल क्लिक"
+
+#: admin/partials/pushassist-dashboard.php:71
+msgid "Total Subscribers"
+msgstr "कुल सदस्य"
+
+#: admin/class-pushassist-admin.php:125
+msgid "<strong>%s </strong> Total Subscribers"
+msgstr "<strong>%s </strong> कुल सदस्य"
+
+#: admin/partials/pushassist-dashboard.php:85
+msgid "Campaigns"
+msgstr "अभियान"
+
+#: admin/class-pushassist-admin.php:146
+msgid "<strong>%s </strong> Campaigns"
+msgstr "<strong>%s </strong> अभियान"
+
+#: admin/partials/pushassist-dashboard.php:87
+msgid "active this week"
+msgstr "इस सप्ताह सक्रिय"
+
+#: admin/partials/pushassist-dashboard.php:91
+msgid "Segments"
+msgstr "वर्ग"
+
+#: admin/class-pushassist-admin.php:131
+msgid "<strong>%s </strong> Segments"
+msgstr "<strong>%s </strong> वर्ग"
+
+#: admin/partials/pushassist-dashboard.php:93
+msgid "created"
+msgstr "बनाया था"
+
+#: admin/partials/pushassist-dashboard.php:99
+msgid "registered"
+msgstr "दर्ज कराई"
+
+#: admin/partials/pushassist-dashboard.php:114 
+#: admin/partials/pushassist-sent-notification-details.php:39
+msgid "Site"
+msgstr "साइट"
+
+#: admin/partials/pushassist-dashboard.php:115 
+#: admin/partials/pushassist-sent-notification-details.php:40
+msgid "Message"
+msgstr "संदेश"
+
+#: admin/partials/pushassist-dashboard.php:116 
+#: admin/partials/pushassist-sent-notification-details.php:41
+msgid "Total Sent"
+msgstr "कुल भेजा"
+
+#: admin/partials/pushassist-dashboard.php:117 
+#: admin/partials/pushassist-sent-notification-details.php:42
+msgid "Delivered"
+msgstr "पहुंचा दिया"
+
+#: admin/partials/pushassist-dashboard.php:118 
+#: admin/partials/pushassist-sent-notification-details.php:43
+msgid "Failed"
+msgstr "अनुत्तीर्ण"
+
+#: admin/partials/pushassist-dashboard.php:119 
+#: admin/partials/pushassist-sent-notification-details.php:44
+msgid "Clicked"
+msgstr "क्लिक किया"
+
+#: admin/partials/pushassist-dashboard.php:120 
+#: admin/partials/pushassist-sent-notification-details.php:45 
+#: admin/partials/pushassist-segment-details.php:42
+msgid "Created Date"
+msgstr "रचना तिथि"
+
+#: admin/partials/pushassist-dashboard.php:121
+msgid "Is Campaign"
+msgstr "अभियान है"
+
+#: admin/partials/pushassist-dashboard.php:182 
+#: admin/partials/pushassist-sent-notification-details.php:107 
+#: admin/partials/pushassist-segment-details.php:72 
+#: admin/partials/pushassist-subscribers.php:71
+msgid "No record found."
+msgstr "कोई रिकॉर्ड नहीं मिला।"
+
+#: admin/partials/pushassist-sent-notification-details.php:21
+msgid "Sent Notifications"
+msgstr "अधिसुचना इतिहास"
+
+#: admin/partials/pushassist-sent-notification-details.php:23
+msgid "Send New Notification"
+msgstr "नई अधिसूचना भेजें"
+
+#: admin/partials/pushassist-send-notifications.php:22
+msgid "New Notification"
+msgstr "नई अधिसूचना"
+
+#: admin/partials/pushassist-send-notifications.php:45 
+#: admin/partials/pushassist-send-notifications.php:48 
+#: admin/partials/pushassist-send-notifications.php:159 
+#: admin/partials/pushassist-send-notifications.php:232 
+#: admin/partials/pushassist-send-notifications.php:331 
+#: admin/partials/pushassist-setting.php:246 
+#: admin/partials/pushassist-setting.php:250
+msgid "Notification Title"
+msgstr "अधिसूचना शीर्षक"
+
+#: admin/partials/pushassist-send-notifications.php:49
+#: admin/partials/pushassist-campaign.php:72
+msgid "Limit 77 Characters"
+msgstr "77 वर्ण सीमा"
+
+#: admin/partials/pushassist-send-notifications.php:58
+#: admin/partials/pushassist-campaign.php:84
+#: admin/class-pushassist-admin.php:1292
+msgid "Limit 138 Characters"
+msgstr "138 वर्ण सीमा"
+
+#: admin/partials/pushassist-send-notifications.php:93 
+#: admin/partials/pushassist-setting.php:223 
+#: admin/partials/pushassist-setting.php:332
+#: admin/partials/pushassist-campaign.php:112
+msgid "Limit 45 Characters"
+msgstr "45 वर्ण सीमा"
+
+#: admin/partials/pushassist-send-notifications.php:53 
+#: admin/partials/pushassist-send-notifications.php:56 
+#: admin/partials/pushassist-setting.php:257 
+#: admin/partials/pushassist-setting.php:261 
+#: admin/class-pushassist-admin.php:1089
+msgid "Notification Message"
+msgstr "अधिसूचना संदेश"
+
+#: admin/partials/pushassist-send-notifications.php:101 
+#: admin/partials/pushassist-setting.php:236 
+#: admin/partials/pushassist-setting.php:344 
+#: admin/class-pushassist-admin.php:1094
+#: admin/partials/pushassist-campaign.php:120
+msgid "Limit 73 Characters"
+msgstr "73 वर्ण सीमा"
+
+#: admin/partials/pushassist-send-notifications.php:62
+msgid "Notification URL"
+msgstr "अधिसूचना यूआरएल"
+
+#: admin/partials/pushassist-send-notifications.php:65
+#: admin/partials/pushassist-campaign.php:74
+msgid "Enter a URL to push your subscribers to (yoursite.com)"
+msgstr "अपने ग्राहकों को पुश करने के लिए एक यूआरएल दर्ज ( yoursite.com )"
+
+#: admin/partials/pushassist-send-notifications.php:71 
+#: admin/partials/pushassist-send-notifications.php:74
+msgid "Notification Logo"
+msgstr "अधिसूचना लोगो छवि"
+
+#: admin/partials/pushassist-send-notifications.php:77 
+#: admin/partials/pushassist-setting.php:206
+#: admin/partials/pushassist-campaign.php:96
+msgid "Image size must be exactly 256x256px."
+msgstr "छवि का आकार 256x256px में होना चाहिए"
+
+#: admin/partials/pushassist-send-notifications.php:84
+#: admin/partials/pushassist-campaign.php:103
+msgid "Add UTM Parameters"
+msgstr "यूटीएम पैरामीटर जोड़"
+
+#: admin/partials/pushassist-send-notifications.php:88 
+#: admin/partials/pushassist-setting.php:324
+#: admin/partials/pushassist-campaign.php:107
+msgid "UTM Source"
+msgstr "यूटीएम स्रोत"
+
+#: admin/partials/pushassist-send-notifications.php:91 
+#: admin/partials/pushassist-setting.php:329
+#: admin/partials/pushassist-campaign.php:110
+msgid "Enter UTM Source"
+msgstr "यूटीएम स्रोत दर्ज"
+
+#: admin/partials/pushassist-send-notifications.php:96 
+#: admin/partials/pushassist-setting.php:336
+#: admin/partials/pushassist-campaign.php:115
+msgid "UTM Medium"
+msgstr "यूटीएम मध्यम"
+
+#: admin/partials/pushassist-send-notifications.php:99 
+#: admin/partials/pushassist-setting.php:341
+#: admin/partials/pushassist-campaign.php:118
+msgid "Enter UTM Medium"
+msgstr "यूटीएम मध्यम दर्ज"
+
+#: admin/partials/pushassist-send-notifications.php:104 
+#: admin/partials/pushassist-setting.php:348 
+#: admin/partials/pushassist-setting.php:353
+#: admin/partials/pushassist-campaign.php:123
+msgid "UTM Campaign"
+msgstr "यूटीएम अभियान"
+
+#: admin/partials/pushassist-send-notifications.php:107 
+#: admin/partials/pushassist-setting.php:351
+#: admin/partials/pushassist-setting.php:356
+#: admin/partials/pushassist-campaign.php:126
+msgid "Enter UTM Campaign"
+msgstr "यूटीएम अभियान दर्ज"
+
+#: admin/partials/pushassist-send-notifications.php:109 
+#: admin/partials/pushassist-setting.php:356
+#: admin/partials/pushassist-campaign.php:128
+msgid "Limit 500 Characters"
+msgstr "500 वर्ण सीमा"
+
+#: admin/partials/pushassist-send-notifications.php:116
+msgid "Segment"
+msgstr "वर्ग"
+
+#: admin/partials/pushassist-send-notifications.php:136
+msgid "Send"
+msgstr "भेजना"
+
+#: admin/partials/pushassist-send-notifications.php:146
+msgid "Preview"
+msgstr "पूर्वावलोकन"
+
+#: admin/partials/pushassist-send-notifications.php:166 
+#: admin/partials/pushassist-send-notifications.php:246 
+#: admin/partials/pushassist-send-notifications.php:345
+msgid "Notification Body"
+msgstr "अधिसूचना शरीर"
+
+#: admin/partials/pushassist-send-notifications.php:178 
+#: admin/partials/pushassist-send-notifications.php:201 
+#: admin/partials/pushassist-send-notifications.php:215 
+#: admin/partials/pushassist-send-notifications.php:366 
+#: admin/partials/pushassist-send-notifications.php:387
+msgid "URL to open when user clicks the notification:"
+msgstr "यूआरएल को खोलने के लिए जब उपयोगकर्ता अधिसूचना क्लिक करता है:"
+
+#: admin/partials/pushassist-segment-details.php:21
+msgid "Segment Details"
+msgstr "वर्ग विवरण"
+
+#: admin/partials/pushassist-segment-details.php:23
+msgid "Add New"
+msgstr "नया जोड़ें"
+
+#: admin/partials/pushassist-segment-details.php:40 
+#: admin/partials/pushassist-segments.php:41 
+#: admin/partials/pushassist-segments.php:46
+msgid "Segment Name"
+msgstr "वर्ग का नाम"
+
+#: admin/partials/pushassist-segment-details.php:41
+msgid "Subscribers Count"
+msgstr "सब्सक्राइबर गणना"
+
+#: admin/partials/pushassist-segments.php:21 
+#: admin/partials/pushassist-segments.php:53
+msgid "Create Segment"
+msgstr "वर्ग बनाएं"
+
+#: admin/partials/pushassist-segments.php:47
+msgid "Limit 40 Characters. E.g. Google"
+msgstr "40 अक्षरों की सीमा। जैसे गूगल"
+
+#: admin/partials/pushassist-segments.php:64
+msgid "How to Implement Segments for your Push Notification Subscribers"
+msgstr "किसी एक वर्ग के ग्राहकों को पुश अधिसूचना कैसे भेजे "
+
+#: admin/partials/pushassist-segments.php:67
+msgid "Step 1 "
+msgstr "चरण 1"
+
+#: admin/partials/pushassist-segments.php:67
+msgid "Create a new segment. Go to Create Segments"
+msgstr "एक नया वर्ग बनाएं। वर्ग बनाने के लिए जाएं"
+
+#: admin/partials/pushassist-segments.php:69
+msgid "Step 2"
+msgstr "चरण 2"
+
+#: admin/partials/pushassist-segments.php:69
+msgid "Copy the following JavaScript code and paste it on your site page(s)."
+msgstr ""
+"निम्नलिखित जावास्क्रिप्ट कोड को कॉपी और यह आपकी साइट में हर पन्ने पर डाले, "
+"अमूमन फुटर पेज साइट के हर पेज में इंक्लूड होता है"
+
+#: admin/partials/pushassist-segments.php:71
+msgid "Subscribe for Single Segment"
+msgstr "एकल वर्ग के लिए सदस्यता"
+
+#: admin/partials/pushassist-segments.php:81
+msgid "Subscribe for Multiple Segments"
+msgstr "कई वर्गों के लिए सदस्यता लें"
+
+#: admin/partials/pushassist-subscribers.php:21
+msgid "Subscribers Details"
+msgstr "सभी सदस्य विवरण"
+
+#: admin/partials/pushassist-subscribers.php:38
+msgid "Chrome"
+msgstr "क्रोम"
+
+#: admin/partials/pushassist-subscribers.php:39
+msgid "Firefox"
+msgstr "फ़ायरफ़ॉक्स"
+
+#: admin/partials/pushassist-subscribers.php:40
+msgid "Safari"
+msgstr "सफारी"
+
+#: admin/partials/pushassist-setting.php:21
+msgid "Settings / Account Information"
+msgstr "सेटिंग्स / खाता जानकारी"
+
+#: admin/partials/pushassist-setting.php:46
+msgid "Ask for permission after"
+msgstr "बाद अनुमति के लिए पूछें"
+
+#: admin/partials/pushassist-setting.php:49
+msgid "Interval"
+msgstr "मध्यान्तर"
+
+#: admin/partials/pushassist-setting.php:53
+msgid "seconds on your website."
+msgstr "अपनी वेबसाइट पर सेकंड।"
+
+#: admin/partials/pushassist-setting.php:58 
+#: admin/partials/pushassist-setting.php:62
+msgid "Opt-In Box Title"
+msgstr "ऑप्ट बॉक्स में शीर्षक"
+
+#: admin/partials/pushassist-setting.php:65
+msgid "Limit 80 Characters"
+msgstr "सीमा 80 अक्षर"
+
+#: admin/partials/pushassist-setting.php:71
+msgid "Opt-In Box Subtitle"
+msgstr "ऑप्ट बॉक्स में उपशीर्षक"
+
+#: admin/partials/pushassist-setting.php:78
+msgid "Limit 105 Characters"
+msgstr "सीमा 105 अक्षर"
+
+#: admin/partials/pushassist-setting.php:84 
+#: admin/partials/pushassist-setting.php:88
+msgid "Allow Button Text"
+msgstr "अनुमति देना   "
+
+#: admin/partials/pushassist-setting.php:95 
+#: admin/partials/pushassist-setting.php:99
+msgid "Don't Allow Button"
+msgstr "अनुमति ना देना "
+
+#: admin/partials/pushassist-setting.php:105
+msgid "Notification Template"
+msgstr "अधिसूचना खाका"
+
+#: admin/partials/pushassist-setting.php:128
+msgid "Location"
+msgstr "स्थान"
+
+#: admin/partials/pushassist-setting.php:199 
+#: admin/partials/pushassist-setting.php:202
+msgid "Site Logo"
+msgstr "साइट लोगो"
+
+#: admin/partials/pushassist-setting.php:212
+msgid "Notification Subscription Setting"
+msgstr "अधिसूचना सदस्यता सेटिंग"
+
+#: admin/partials/pushassist-setting.php:216 
+#: admin/partials/pushassist-setting.php:220
+msgid "Opt-In Title"
+msgstr "ऑप्ट में शीर्षक"
+
+#: admin/partials/pushassist-setting.php:229 
+#: admin/partials/pushassist-setting.php:233
+msgid "Opt-In Message"
+msgstr "ऑप्ट में संदेश"
+
+#: admin/partials/pushassist-setting.php:242
+msgid "Welcome Message for first time subscribers"
+msgstr "पहली बार ग्राहकों के लिए स्वागत संदेश"
+
+#: admin/partials/pushassist-setting.php:268 
+#: admin/partials/pushassist-setting.php:272
+msgid "Redirect URL"
+msgstr "यूआरएल पुनर्निर्देशन"
+
+#: admin/partials/pushassist-setting.php:297
+msgid "Auto Send Push Notifications"
+msgstr "ऑटो पुश सूचनाएं भेजने"
+
+#: admin/partials/pushassist-setting.php:303
+msgid "When a Post is Published"
+msgstr "जब एक पोस्ट प्रकाशित कर रहा है"
+
+#: admin/partials/pushassist-setting.php:308
+msgid "When a Post is Updated"
+msgstr "जब एक के बाद अद्यतन किया जाता है"
+
+#: admin/partials/pushassist-setting.php:313
+msgid "Auto Push UTM Parameters"
+msgstr "ऑटो पुश यूटीएम पैरामीटर्स"
+
+#: admin/partials/pushassist-setting.php:280 
+#: admin/partials/pushassist-setting.php:363 
+#: admin/partials/pushassist-setting.php:420
+msgid "Save Settings"
+msgstr "सेटिंग सेव करे"
+
+#: admin/partials/pushassist-setting.php:378
+msgid ""
+"What is a GCM Key? How do I get export my subscribers, What if I want to "
+"switch to other vendor."
+msgstr "एक जीसीएम कुंजी क्या है? मैं अपने ग्राहक कैसे निर्यात कर सकता हूँ?"
+
+#: admin/partials/pushassist-setting.php:380
+msgid ""
+"At the time of installation, you have to provide your GCM (Google Cloud "
+"Messaging) API Key for Chrome and Certificate Details for Safari that is "
+"used."
+msgstr ""
+"स्थापना के वक़्त आप अपनी GCM (गूगल क्लाउड संदेश ) एपीआई कुंजी क्रोम के लिए "
+"एवं सफारी प्रमाणपत्र विवरण प्रदान करे"
+
+#: admin/partials/pushassist-setting.php:382
+msgid ""
+"We need this information to export your subscriber’s ID’s. Please note that "
+"only premium accounts can export the subscribers."
+msgstr ""
+"सब्सक्राइबर्स निर्यात करने हेतु हमे इस जानकारी की आवस्यकता है। कृपया ध्यान "
+"दें कि केवल प्रीमियम ग्राहक ही निर्यात कर सकते हैं ।"
+
+#: admin/partials/pushassist-setting.php:384
+msgid "Please read"
+msgstr "कृपया पढ़ें"
+
+#: admin/partials/pushassist-setting.php:388
+msgid "GCM registration"
+msgstr "जीसीएम पंजीकरण"
+
+#: admin/partials/pushassist-setting.php:388
+msgid "guidelines here."
+msgstr "दिशानिर्देश"
+
+#: admin/partials/pushassist-setting.php:397 
+#: admin/partials/pushassist-setting.php:401
+msgid "GCM Project No."
+msgstr "जीसीएम परियोजना संख्या"
+
+#: admin/partials/pushassist-setting.php:408 
+#: admin/partials/pushassist-setting.php:412
+msgid "GCM API Key"
+msgstr "जीसीएम एपीआई कुंजी"
+
+#: admin/partials/pushassist-setting.php:429
+msgid ""
+"Screenshot of advance configurations that are possible with your PushAssist "
+"account."
+msgstr ""
+"अग्रिम संभव सेटिंग्स की छवि, अमुक सेटिंग्स आप अपने PushAssist कंट्रोल पैनल "
+"मैं कर सकते है"
+
+#: admin/partials/pushassist-setting.php:433
+msgid "Customize Now"
+msgstr "अपनी रूचि अनुसार बनाइये"
+
+#: admin/partials/pushassist-setting.php:438
+msgid "Notification Opt-in Box Setting"
+msgstr "अधिसूचना ऑप्ट-इन बॉक्स की सेटिंग्स"
+
+#: admin/partials/pushassist-campaign.php:32
+msgid "Following screenshot shows how you can create and schedule a campaign."
+msgstr "इस फोटो को देख कर आप एक नया अभियान बना एवं भेज सकते है  "
+
+#: admin/partials/pushassist-campaign.php:32
+msgid "This feature is available in premium plans."
+msgstr "यह सुविधा केवल प्रीमियम योजनाओं में उपलब्ध है"
+
+#: admin/partials/pushassist-campaign.php:40
+msgid "Campaign Notification"
+msgstr "अभियान अधिसूचना"
+
+#: admin/class-pushassist-admin.php:160
+msgid "Notifications"
+msgstr "सूचनाएं"
+
+#: admin/class-pushassist-admin.php:161
+msgid "Send Notification"
+msgstr "अधिसूचना भेजें"
+
+#: admin/class-pushassist-admin.php:163
+msgid "Create Segments"
+msgstr "नए वर्ग बनाए"
+
+#: admin/class-pushassist-admin.php:164
+msgid "Subscribers"
+msgstr "सभी सदस्य"
+
+#: admin/class-pushassist-admin.php:165
+msgid "PushAssist Settings"
+msgstr "PushAssist सेटिंग"
+
+#: admin/class-pushassist-admin.php:166
+msgid "PushAssist Campaigns"
+msgstr "PushAssist अभियान"
+
+#: admin/class-pushassist-admin.php:165
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: admin/class-pushassist-admin.php:394
+msgid "Setting successfully save."
+msgstr "सेटिंग सफतपूर्वक सेव हो गयी"
+
+#: admin/class-pushassist-admin.php:605 
+#: admin/class-pushassist-admin.php:721
+msgid "PushAssist is installed"
+msgstr "PushAssist स्थापित किया गया है"
+
+#: admin/class-pushassist-admin.php:605 
+#: admin/class-pushassist-admin.php:721
+msgid " no additional step is needed. Completely"
+msgstr " कोई अतिरिक्त कदम की जरूरत है। "
+
+#: admin/class-pushassist-admin.php:605 
+#: admin/class-pushassist-admin.php:721
+msgid " Purge Site Cache"
+msgstr "अपने वेबसाइट की कैश क्लियर करे "
+
+#: admin/class-pushassist-admin.php:605 
+#: admin/class-pushassist-admin.php:721
+msgid " once to see it in action."
+msgstr " एक बार यह कार्रवाई में देखने के लिए।"
+
+#: admin/class-pushassist-admin.php:605 
+#: admin/class-pushassist-admin.php:721
+msgid ""
+"Your Account Details have already been emailed to you. Also check under SPAM "
+"if you don't find it."
+msgstr ""
+"आपके खाते की सुचना आपको ईमेल द्वारा भेज दी गयी है, कृपया अपने ईमेल स्पैम भी "
+"चेक करिये अगर वो आपको प्राप्त नहीं हुई है"
+
+#: admin/class-pushassist-admin.php:985
+msgid "Send Push Notification on Update"
+msgstr "सुधार पर पुश अधिसूचना भेजें"
+
+#: admin/class-pushassist-admin.php:993
+msgid "Send Push Notification"
+msgstr "पुश अधिसूचना भेजें"
+
+#: admin/class-pushassist-admin.php:1482
+msgid "Do Not Send Push Notification"
+msgstr "पुश अधिसूचना न भेजें"
+
+#: admin/class-pushassist-admin.php:1022
+msgid "Select PushAssist Segments"
+msgstr "PushAssist अनुभाग का चयन"
+
+#: admin/class-pushassist-admin.php:1026
+msgid "All"
+msgstr "सब"
+
+#: admin/class-pushassist-admin.php:1067
+msgid "PushAssist Notification Message"
+msgstr "PushAssist अधिसूचना संदेश"
+
+#: admin/class-pushassist-admin.php:1095
+msgid ""
+"When using a custom headline, this text will be used in place of the default "
+"blog post message for your push notification."
+msgstr ""
+"जब आप एक कस्टम हैडलाइन भेज रहे हो तब यह शीर्षक पुश अधिसूचना के स्थान पर अपने "
+"आप भेज दिया जायेगा!"
+
+#: admin/partials/pushassist-setting.php:215
+#: admin/partials/pushassist-setting.php:219
+msgid "Opt-In Text"
+msgstr "ऑप्ट में संदेश"
+
+#: admin/partials/pushassist-setting.php:222
+msgid "Limit 100 Characters"
+msgstr "100 वर्ण सीमा"
+
+#: admin/partials/pushassist-campaign.php:21
+msgid "Date Based Campaign"
+msgstr "दिनांक आधारित अभियान"
+
+#: admin/partials/pushassist-campaign.php:54
+#: admin/partials/pushassist-campaign.php:57
+#: admin/partials/pushassist-campaign.php:183
+#: admin/partials/pushassist-campaign.php:259
+#: admin/partials/pushassist-campaign.php:358
+msgid "Campaign Title"
+msgstr "अभियान शीर्षक"
+
+#: admin/partials/pushassist-campaign.php:62
+#: admin/partials/pushassist-campaign.php:65
+msgid "Campaign Message"
+msgstr "अभियान संदेश"
+
+#: admin/partials/pushassist-campaign.php:71
+msgid "Campaign URL"
+msgstr "अभियान यूआरएल"
+
+#: admin/partials/pushassist-campaign.php:80
+#: admin/partials/pushassist-campaign.php:83
+msgid "Campaign Date"
+msgstr "अभियान दिनांक"
+
+#: admin/partials/pushassist-campaign.php:84
+msgid "Date Format (YYYY-MM-DD HH:MM)"
+msgstr "दिनांक प्रारूप (YYYY-MM-DD HH:MM)"
+
+#: admin/partials/pushassist-campaign.php:90
+msgid "Campaign Logo"
+msgstr "अभियान लोगो"
+
+#: admin/partials/pushassist-campaign.php:198
+msgid "TimeZone"
+msgstr "समय क्षेत्र"
+
+#: admin/partials/pushassist-campaign.php:155
+msgid "Create Campaign"
+msgstr "नया अभियान बनाएं"
+
+#: admin/partials/pushassist-campaign.php:190
+#: admin/partials/pushassist-campaign.php:273
+#: admin/partials/pushassist-campaign.php:372
+msgid "Campaign Body"
+msgstr "अभियान शरीर"
+
+#: admin/partials/pushassist-campaign.php:279
+#: admin/partials/pushassist-campaign.php:305
+#: admin/partials/pushassist-campaign.php:319
+#: admin/partials/pushassist-campaign.php:470
+#: admin/partials/pushassist-campaign.php:491
+msgid "URL to open when user clicks the campaign:"
+msgstr "यूआरएल को खोलने के लिए जब उपयोगकर्ता अभियान क्लिक करता है:"
+
+#: admin/class-pushassist-admin.php:368
+#: admin/class-pushassist-admin.php:1421
+msgid "We have just published an article, check it out!"
+msgstr "हमने एक लेख प्रकाशित किया है, उसे जाँच ले !"
+
+#: admin/pushassist-setting.php:336
+#: admin/pushassist-setting.php:337
+msgid "Notification Message When a Post is Published"
+msgstr "अधिसूचना संदेश पोस्ट प्रकाशित होते समय"
+
+#: admin/pushassist-setting.php:335
+msgid "Stop Automatic Script Inclusion. In That Case You Have to Manually Install our Script."
+msgstr "ऑटोमैटिक स्क्रिप्ट समावेशन बंद करे. इस स्थिति में आप हमारी स्क्रिप्ट मैन्युअल रूप से स्थापित करे"
+
+#: admin/pushassist-setting.php:330
+msgid "Use Logo Image as Post Image"
+msgstr "पोस्ट प्रकाशित होते समय लोगो छवि का उपयोग कीजिये"
+
+#: admin/pushassist-setting.php:335
+msgid "Use Large Image"
+msgstr "पोस्ट प्रकाशित होते समय बड़ी छवि का उपयोग करें"
+
+#: admin/pushassist-setting.php:401
+msgid "Other Settings"
+msgstr "अन्य सेटिंग्स "
+
+#: admin/pushassist-setting.php:408
+msgid "Autocheck Notification for New Posts"
+msgstr "ऑटोचेक अधिसूचना पोस्ट प्रकाशित होते समय "
+
+#: admin/pushassist-setting.php:414
+msgid "Autocheck Notification for Post Updates"
+msgstr "ऑटोचेक अधिसूचना पोस्ट अपडेट होते समय "
+
+#: admin/class-pushassist-admin.php:111
+msgid "PushAssist Stats"
+msgstr "PushAssist विवरण"
+
+#: admin/partials/pushassist-dashboard:71
+#: admin/class-pushassist-admin:43
+msgid "Active Subscribers"
+msgstr "सक्रिय सदस्य"
+
+#: admin/partials/pushassist-dashboard:85
+#: admin/partials/pushassist-dashboard:126
+#: admin/partials/pushassist-send-notifications-details:43
+#: admin/class-pushassist-admin:139
+msgid "Unsubscribed"
+msgstr "निष्क्रिय सदस्य"
+
+#: admin/class-pushassist-admin:43
+msgid "<strong>%s </strong> Active Subscribers"
+msgstr "<strong>%s </strong> सक्रिय सदस्य"
+
+#: admin/class-pushassist-admin:139
+msgid "<strong>%s </strong> Unsubscribed"
+msgstr "<strong>%s </strong> निष्क्रिय सदस्य"
+
+#: admin/partials/pushassist-subscribers:41
+msgid "Total"
+msgstr "कुल"
